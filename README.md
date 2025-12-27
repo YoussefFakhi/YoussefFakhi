@@ -22,30 +22,19 @@ Hi, I'm **Youssef**, a Full-Stack Web Developer focused on **MERN stack** projec
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-### 💻 Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🎨 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-
-### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠️ Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -61,30 +50,16 @@ Hi, I'm **Youssef**, a Full-Stack Web Developer focused on **MERN stack** projec
 
 ---
 
-## 🎯 Featured Projects
+## 🏢 Projects / Repositories
 
-### 🏢 MERN CRUD App
+### MERN CRUD App
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoussefFakhi&repo=mern-crud&theme=dark)](https://github.com/YoussefFakhi/mern-crud)
 
-### 🚀 Freelance Portfolio
+### Freelance Portfolio
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoussefFakhi&repo=portfolio&theme=dark)](https://github.com/YoussefFakhi/portfolio)
 
-### 📊 REST API Project
+### REST API Project
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoussefFakhi&repo=rest-api&theme=dark)](https://github.com/YoussefFakhi/rest-api)
-
----
-
-## 🔥 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YoussefFakhi&custom_title=Youssef's%20Activity%20Graph&bg_color=0d1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" />
-
----
-
-## 🐍 GitHub Snake Animation
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/YoussefFakhi/YoussefFakhi/output/github-snake.svg" alt="Snake Animation" />
-</div>
 
 ---
 
