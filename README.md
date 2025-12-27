@@ -66,9 +66,9 @@ const youssef = {
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yousseffakhi&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=3BADE8&text_color=c9d1d9"/>
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YoussefFakhi&theme=radical&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies" />
-</div>
+</div> -->
 
 ---
 
