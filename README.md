@@ -113,12 +113,12 @@ const youssef = {
   
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | React, TypeScript, HTML/CSS, TailwindCSS | 
+| **Frontend** | React, javascript, HTML/CSS, TailwindCSS | 
 | **Backend** | Node.js, Express, Laravel, PHP |
 | **Database** | MongoDB, MySQL, PostgreSQL |
 | **Real-time** | Socket.io, WebRTC |
 | **Tools** | Git, Docker, Postman, JWT |
-| **Deployment** | Vercel, Netlify, cPanel |
+| **Deployment** | Vercel, Netlify |
 
 
 <!-- | Category | Technologies | Proficiency |
