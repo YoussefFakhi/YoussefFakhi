@@ -113,7 +113,7 @@ const youssef = {
   
 | Category | Technologies |
 |----------|-------------|
-| **Frontend** | React, javascript, HTML/CSS, TailwindCSS | 
+| **Frontend** | React, Javascript, HTML/CSS, TailwindCSS | 
 | **Backend** | Node.js, Express, Laravel, PHP |
 | **Database** | MongoDB, MySQL, PostgreSQL |
 | **Real-time** | Socket.io, WebRTC |
