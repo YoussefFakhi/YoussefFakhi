@@ -1,136 +1,174 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Fakhi;Full-Stack+Developer+%28MERN+%26+Laravel%29;Building+Scalable+Web+Apps" alt="Typing SVG" />
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Youssef%20Fakhi&reversal=true&textBg=false&fontAlign=50&animation=twinkling&descAlign=60" alt="Youssef Fakhi" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Youssef%20Fakhi&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=fff" />
 </div>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/yousseffakhi1">
-    ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BADE8&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef+Fakhi;Full-Stack+Developer+(MERN+%26+Laravel);Building+Scalable+Web+Apps" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/youssef-fakhi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:youssef.fakhi.dev@gmail.com">
-    ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+  <a href="mailto:youssef.fakhi@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://youssef-fakhi.netlify.app">
-    ![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)
+  <a href="https://youssef-fakhi.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yousseffakhi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
 ---
 
-## 🚀 About Me
-
+## 👨‍💻 About Me
 ```typescript
 const youssef = {
   name: "Youssef Fakhi",
   location: "Casablanca, Morocco 🇲🇦",
-  title: "Full-Stack Web Developer (MERN & Laravel)",
-  education: "Full-Stack Web Development Diploma @ OFPPT-NTIC1",
-  passions: ["Building Scalable Web Apps", "Learning Advanced Web Patterns", "Storytelling & Cars"],
-  currentlyLearning: ["Advanced Node.js", "Deployment Strategies", "System Optimization"],
-  askMeAbout: ["React", "Node.js", "Laravel", "MongoDB", "MySQL", "REST APIs"],
-  funFact: "I debug code with the same passion I have for creating it! 🐛➡️✨"
+  title: "Full-Stack Developer",
+  education: "Computer Science Student",
+  passions: ["Building scalable web apps", "Problem solving", "Clean code"],
+  currentlyLearning: ["Docker", "Microservices", "System Design"],
+  askMeAbout: ["MERN Stack", "Laravel", "RESTful APIs", "Real-time apps"],
+  funFact: "I code better after a kickboxing session 🥊",
+  hobbies: ["Kickboxing", "Cars", "Storytelling", "Tech exploration"]
 };
-````
-
-### 🔥 What I'm up to:
-
-* 🔭 Improving full-stack projects & building reusable components
-* 🌱 Learning advanced Node.js patterns and deployment strategies
-* 👯 Looking to collaborate on MERN & Laravel open-source projects
-* 💬 Ask me about practical web solutions & scalable architecture
-* ⚡ Fun fact: I prefer clean, readable code over clever hacks
-
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-<!-- Languages -->
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/css-%23663399.svg?style=for-the-badge&logo=css&logoColor=white)
-
-<!-- Frontend -->
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge\&logo=react\&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
-
-<!-- Backend -->
-
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge\&logo=express\&logoColor=%2361DAFB)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white)
-
-<!-- Databases -->
-
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-<!-- Tools -->
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge\&logo=github\&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge\&logo=docker\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge\&logo=netlify\&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge\&logo=JSON%20web%20tokens)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge\&logo=socket.io\&badgeColor=010101)
-
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  ![Profile Views](https://komarev.com/ghpvc/?username=YoussefFakhi&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS)
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefFakhi&layout=compact&theme=radical&hide_border=true)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoussefFakhi&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
-  ![Trophies](https://github-profile-trophy.vercel.app/?username=YoussefFakhi&theme=dark&no-frame=true&no-bg=true&margin-w=4)
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### TechSwap - Real-Time Skill Exchange
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoussefFakhi\&repo=TechSwap\&theme=radical\&hide_border=true)](https://github.com/YoussefFakhi/TechSwap)
-
-### E-Commerce Games Platform
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoussefFakhi\&repo=E-commerce-React\&theme=radical\&hide_border=true)](https://github.com/YoussefFakhi/E-commerce-React)
-
-### Admin Portal - Laravel
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoussefFakhi\&repo=Admin-Portal\&theme=radical\&hide_border=true)](https://github.com/YoussefFakhi/Admin-Portal)
-
-</div>
-
----
-
-## 💭 Fun Facts & Personal Touch
-
-* Kickboxing enthusiast 🥊
-* Car lover & amateur mechanic 🚗
-* Storytelling & creative problem solving ✨
-* Fun fact: I prefer **clean, readable code** over clever hacks
-
-<div align="center">
-  ![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=twinkling" />
-  <p>⭐ Thank you for visiting!</p>
-</div>
 ```
+
+---
+
+## 🚀 What I'm Up To
+
+- 🔭 Working on **TechSwap** - A real-time tech exchange platform with WebRTC video calls
+- 🌱 Learning **Docker, Kubernetes & Microservices Architecture**
+- 👯 Open to collaborate on **Full-Stack Web Applications & Open Source Projects**
+- 💬 Ask me about **MERN Stack, Laravel, RESTful APIs, Socket.io, JWT Authentication**
+- ⚡ Fun fact: **I believe every bug is just a feature in disguise**
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Languages
+<div align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+</div>
+
+### Frontend
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS"/>
+</div>
+
+### Backend
+<div align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+</div>
+
+### Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</div>
+
+### Tools & Technologies
+<div align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io"/>
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousseffakhi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BADE8&icon_color=3BADE8&text_color=FFFFFF" alt="Top Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yousseffakhi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BADE8&icon_color=3BADE8&text_color=FFFFFF" alt="GitHub Stats" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yousseffakhi&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/yousseffakhi/techswap">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousseffakhi&repo=techswap&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BADE8&icon_color=3BADE8&text_color=FFFFFF" alt="TechSwap" />
+  </a>
+  <a href="https://github.com/yousseffakhi/ecommerce-games">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousseffakhi&repo=ecommerce-games&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BADE8&icon_color=3BADE8&text_color=FFFFFF" alt="E-Commerce Games" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/yousseffakhi/admin-portal">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yousseffakhi&repo=admin-portal&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3BADE8&icon_color=3BADE8&text_color=FFFFFF" alt="Admin Portal" />
+  </a>
+</div>
+
+### 💡 Project Highlights
+
+**🔥 TechSwap** - Real-time tech exchange platform
+- Built with MERN Stack + WebRTC + Socket.IO
+- JWT authentication & real-time video calls
+- Secure & scalable architecture
+
+**🎮 E-Commerce Games Platform** - Online gaming marketplace
+- React + Context API + CSS
+- Dynamic product catalog & shopping cart
+- Responsive design & smooth UX
+
+**⚙️ Admin Portal** - Content management system
+- Laravel + MySQL + Blade
+- Role-based access control
+- Dashboard analytics & reporting
+
+---
+
+## 🎯 Personal Touch
+
+- 🥊 **Kickboxing enthusiast** - I believe physical fitness fuels mental clarity
+- 🚗 **Car lover** - From vintage classics to modern engineering marvels
+- 📖 **Storyteller** - Every project has a story, every bug has a lesson
+- ⚡ **Fun fact**: I debug faster when I explain the problem to my rubber duck 🦆
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thank%20you%20for%20visiting!&fontSize=30&fontAlignY=70&animation=twinkling&fontColor=fff" />
+</div>
