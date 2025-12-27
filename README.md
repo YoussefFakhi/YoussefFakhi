@@ -201,7 +201,7 @@ const youssef = {
   
 ### 🐍 Watch my contribution graph get eaten by a snake!
 
-<img src="https://raw.githubusercontent.com/yousseffakhi/yousseffakhi/output/github-snake.svg" alt="Snake Animation" />
+<img src="https://raw.githubusercontent.com/YoussefFakhi/YoussefFakhi/output/github-snake.svg" alt="Snake Animation" />
 
 </div>
 
@@ -219,6 +219,6 @@ const youssef = {
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <sub>⭐ From <a href="https://github.com/yousseffakhi">YoussefFakhi</a> with ❤️</sub>
-</div>
+</div> -->
