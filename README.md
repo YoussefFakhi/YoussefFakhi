@@ -85,7 +85,7 @@ const youssef = {
 **Features:** Real-time video calls, instant messaging, secure authentication, tech item exchange marketplace
 
 ### 🎮 E-Commerce Games Platform - Online Gaming Marketplace
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yousseffakhi&repo=ecommerce-games&theme=radical&hide_border=true&bg_color=0d1117&title_color=3BADE8&text_color=c9d1d9)](https://github.com/yousseffakhi/ecommerce-games)
+[Readme Card](https://github.com/yousseffakhi/ecommerce-games)
 
 **Tech Stack:** React | Context API | CSS  
 **Features:** Dynamic product catalog, shopping cart, responsive design, smooth user experience
