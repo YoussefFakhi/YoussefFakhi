@@ -134,10 +134,10 @@ const youssef = {
 
 ---
 
-## 🎨 Recent Activity
+<!-- ## 🎨 Recent Activity
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!-- END_SECTION:activity  -->
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
