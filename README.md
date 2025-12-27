@@ -85,7 +85,7 @@ const youssef = {
 **Features:** Real-time video calls, instant messaging, secure authentication, tech item exchange marketplace
 
 ### 🎮 E-Commerce Games Platform - Online Gaming Marketplace
-[Readme Card](https://github.com/yousseffakhi/ecommerce-games)
+[YosGames](https://github.com/YoussefFakhi/YosGames-game-store)
 
 **Tech Stack:** React | Context API | CSS  
 **Features:** Dynamic product catalog, shopping cart, responsive design, smooth user experience
