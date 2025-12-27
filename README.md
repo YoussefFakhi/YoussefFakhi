@@ -77,7 +77,7 @@ const youssef = {
 <div align="center">
 
 ### 🔄 TechSwap - Real-time Tech Exchange Platform
-[![TechSwap])](https://github.com/YoussefFakhi/TechSwap-Readme)
+[TechSwap](https://github.com/YoussefFakhi/TechSwap-Readme)
 
 
 
