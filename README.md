@@ -77,8 +77,7 @@ const youssef = {
 <div align="center">
 
 ### 🔄 TechSwap - Real-time Tech Exchange Platform
-[![TechSwap](https://raw.githubusercontent.com/YoussefFakhi/TechSwap-Readme/main/banner.png)](https://github.com/YoussefFakhi/TechSwap-Readme)
-
+[![TechSwap](https://raw.githubusercontent.com/YoussefFakhi/TechSwap-Readme/main/screenshots/a1.png)](https://github.com/YoussefFakhi/TechSwap-Readme)
 
 
 **Tech Stack:** MERN Stack | WebRTC | Socket.io | JWT Authentication  
