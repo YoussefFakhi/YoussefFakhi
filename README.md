@@ -91,9 +91,6 @@ const youssef = {
 **Features:** Dynamic product catalog, shopping cart, responsive design, smooth user experience
 
 ### ⚙️ Admin Portal - Content Management System
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoussefFakhi&repo=Apogee-UIT-Portail-Administratif&theme=radical&hide_border=true&bg_color=0d1117&title_color=3BADE8&text_color=c9d1d9)](https://github.com/YoussefFakhi/Apogee-UIT-Portail-Administratif)
-
-
 [Apogee-UIT-Portail-Administratif](https://github.com/YoussefFakhi/Apogee-UIT-Portail-Administratif)
 
 
