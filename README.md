@@ -67,7 +67,7 @@ const youssef = {
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yousseffakhi&theme=radical&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=YoussefFakhi&theme=radical&no-frame=true&row=1&column=7&margin-h=15&margin-w=5" alt="GitHub Trophies" />
 </div>
 
 ---
