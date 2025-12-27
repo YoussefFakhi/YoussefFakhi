@@ -77,7 +77,8 @@ const youssef = {
 <div align="center">
 
 ### 🔄 TechSwap - Real-time Tech Exchange Platform
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YoussefFakhi&repo=TechSwap-Readme&theme=radical&hide_border=true&bg_color=0d1117&title_color=3BADE8&text_color=c9d1d9)](https://github.com/YoussefFakhi/TechSwap-Readme)
+[![TechSwap](https://raw.githubusercontent.com/YoussefFakhi/TechSwap-Readme/main/banner.png)](https://github.com/YoussefFakhi/TechSwap-Readme)
+
 
 
 **Tech Stack:** MERN Stack | WebRTC | Socket.io | JWT Authentication  
