@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3BADE8&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef;Full+Stack+Developer;MERN+%26+Laravel+Expert;Building+Scalable+Web+Apps" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=3BADE8&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Youssef;Full+Stack+Developer;MERN+%26+Laravel;Building+Scalable+Web+Apps" alt="Typing SVG" />
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Youssef%20Fakhi&reversal=true&textBg=false&fontAlign=50&animation=twinkling&descAlign=60" alt="Youssef Fakhi" />
