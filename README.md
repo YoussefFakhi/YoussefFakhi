@@ -113,12 +113,22 @@ const youssef = {
   
 | Category | Technologies | Proficiency |
 |----------|-------------|-------------|
+| **Frontend** | React, TypeScript, HTML/CSS, TailwindCSS | 
+| **Backend** | Node.js, Express, Laravel, PHP |
+| **Database** | MongoDB, MySQL, PostgreSQL |
+| **Real-time** | Socket.io, WebRTC |
+| **Tools** | Git, Docker, Postman, JWT |
+| **Deployment** | Vercel, Netlify, cPanel |
+
+
+<!-- | Category | Technologies | Proficiency |
+|----------|-------------|-------------|
 | **Frontend** | React, TypeScript, HTML/CSS, TailwindCSS | ████████████ 92% |
 | **Backend** | Node.js, Express, Laravel, PHP | ████████████ 95% |
 | **Database** | MongoDB, MySQL, PostgreSQL | ████████████ 90% |
 | **Real-time** | Socket.io, WebRTC | ████████████ 88% |
 | **Tools** | Git, Docker, Postman, JWT | ████████████ 87% |
-| **Deployment** | Vercel, Netlify, cPanel | ████████████ 85% |
+| **Deployment** | Vercel, Netlify, cPanel | ████████████ 85% | -->
 
 </div>
 
