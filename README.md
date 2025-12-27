@@ -111,8 +111,8 @@ const youssef = {
 
 <div align="center">
   
-| Category | Technologies | Proficiency |
-|----------|-------------|-------------|
+| Category | Technologies |
+|----------|-------------|
 | **Frontend** | React, TypeScript, HTML/CSS, TailwindCSS | 
 | **Backend** | Node.js, Express, Laravel, PHP |
 | **Database** | MongoDB, MySQL, PostgreSQL |
